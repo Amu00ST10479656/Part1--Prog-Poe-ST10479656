@@ -4,13 +4,11 @@
 
 package com.mycompany.progpoe.part1;
 
-/**
- *
- * @author amuke
- */
+import Main.Main;
 public class ProgPOEPart1 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+       Main.main(args);
+       
     }
 }
